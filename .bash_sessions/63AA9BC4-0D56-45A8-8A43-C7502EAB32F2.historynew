@@ -1,0 +1,3 @@
+git checkout euchre_test50.out.correct 0c7ab50b2555d375eb68238b352ac040cf85126c
+git checkout 0c7ab50b2555d375eb68238b352ac040cf85126c euchre_test50.out.correct
+git status

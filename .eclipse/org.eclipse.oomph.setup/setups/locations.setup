@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<setup:LocationCatalog
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:setup="http://www.eclipse.org/oomph/setup/1.0">
+  <installation>
+    <key href="file:/Users/normanwqn/eclipse/java-photon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/Volumes/GoogleDrive/My%20Drive/Java/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/Volumes/GoogleDrive/My%20Drive/C++/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/Users/normanwqn/eclipse-workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+  </installation>
+  <installation>
+    <key href="file:/Users/normanwqn/eclipse/cpp-photon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/Volumes/GoogleDrive/My%20Drive/C++/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+  </installation>
+  <workspace>
+    <key href="file:/Volumes/GoogleDrive/My%20Drive/Java/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/Users/normanwqn/eclipse/java-photon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/Volumes/GoogleDrive/My%20Drive/C++/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/Users/normanwqn/eclipse/java-photon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/Users/normanwqn/eclipse/cpp-photon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/Users/normanwqn/eclipse-workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/Users/normanwqn/eclipse/java-photon/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+</setup:LocationCatalog>

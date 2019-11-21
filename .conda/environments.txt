@@ -1,0 +1,3 @@
+
+/Users/normanwqn/anaconda3/envs/week1
+/Users/normanwqn/anaconda3

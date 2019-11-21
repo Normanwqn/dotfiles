@@ -1,0 +1,26 @@
+nano convert.sh
+cat convert.sh
+pwd
+mv convert.sh /Users/normanwqn/Courses/EECS280/lab-02/convert.sh
+cat convert.sh
+cat convert.sh
+cd /Users/normanwqn/Courses/EECS280/lab-02 
+cat convert.sh
+convert.sh lab02.h > lab02.txt
+./convert.sh lab02.h > lab02.txt
+chmod -x convert.sh
+./convert.sh lab02.h > lab02.txt
+nano convert.sh
+./convert.sh lab02.h > lab02.txt
+convert.sh
+cat convert.sh
+bash convert.sh lab02.h > lab02.txt
+cat convert.sh
+bash convert.sh lab02.h lab02.cpp
+cat convert.sh
+bash convert.sh lab02.h lab02_header.txt
+cd ~
+nano .bashrc
+ls
+~/.bashrc
+cd ~/.bashrc

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Copyright (c) 2010, 2016 Wind River Systems, Inc. and others.
+    All rights reserved. This program and the accompanying materials
+    are made available under the terms of the Eclipse Public License v1.0
+    which accompanies this distribution, and is available at
+    http://www.eclipse.org/legal/epl-v10.html
+   
+    Contributors:
+        Wind River Systems - initial API and implementation
+ -->
+<feature
+      id="org.eclipse.tcf.core.feature"
+      label="%featureName"
+      version="1.5.0.201712121722"
+      provider-name="%providerName">
+
+   <description url="http://wiki.eclipse.org/TCF">
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <url>
+      <update label="%updateSiteName" url="http://download.eclipse.org/releases/photon"/>
+   </url>
+
+   <requires>
+      <import plugin="org.eclipse.osgi" version="3.8.1" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.core.runtime" version="3.8.0" match="greaterOrEqual"/>
+   </requires>
+
+   <plugin
+         id="org.eclipse.tcf.core"
+         download-size="565"
+         install-size="1161"
+         version="1.5.0.201703021920"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.tcf"
+         download-size="28"
+         install-size="46"
+         version="1.5.0.201609112106"
+         unpack="false"/>
+
+</feature>

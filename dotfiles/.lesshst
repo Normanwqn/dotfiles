@@ -1,0 +1,8 @@
+.less-history-file:
+.search
+"-rn
+"-x
+"-v
+"pr
+"-r
+"-p

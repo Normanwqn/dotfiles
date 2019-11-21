@@ -1,0 +1,4 @@
+sudo ln -s /usr/local/mysql/lib/libmysqlclient.18.dylib /usr/lib/libmysqlclient.18.dylib
+sudo ln -s /usr/local/Cellar/mysql/5.7.10/lib/libmysqlclient.dylib /usr/local/lib/libmysqlclient.18.dylib
+sudo ln -s /usr/local/mysql/lib/libmysqlclient.18.dylib /usr/lib/libmysqlclient.18.dylib
+sudo ln -s /usr/local/Cellar/mysql/5.7.10/lib/libmysqlclient.dylib /usr/local/lib/libmysqlclient.18.dylib

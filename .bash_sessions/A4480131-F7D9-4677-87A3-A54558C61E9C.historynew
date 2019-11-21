@@ -1,0 +1,51 @@
+cd /Volumes/GoogleDrive/My\ Drive/MATH\ 216/Labs/math216-lab2 
+git status
+git clone https://gitlab.eecs.umich.edu/normanqw/math216-lab-2.git
+cd /Volumes/GoogleDrive/My\ Drive/MATH\ 216/Labs/math216-lab2 
+pwd
+git status
+git init 
+git status
+git checkout master
+git branch
+git push
+git remote add https://gitlab.eecs.umich.edu/normanqw/math216-lab-2.git
+git remote add https://gitlab.eecs.umich.edu/normanqw/math216-lab-2.git
+git remote add origin https://gitlab.eecs.umich.edu/normanqw/math216-lab-2.git
+git pull
+git merge
+git status
+git add .
+git commit -m "Added Documents"
+git push
+git push --set-upstream origin master
+git branch
+git merge master origin/master
+git log
+git pull
+git pull origin master
+cd /Volumes/GoogleDrive/My\ Drive/MATH\ 216/Labs 
+git clone hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.git clone https://gitlab.eecs.umich.edu/normanqw/math216-lab-2.git
+git lab https://gitlab.eecs.umich.edu/normanqw/math216-lab-2.git
+git lab clone https://gitlab.eecs.umich.edu/normanqw/math216-lab-2.git
+git clone https://gitlab.eecs.umich.edu/normanqw/math216-lab-2.git
+git checkout master
+pwd
+cd math216-lab2
+pwd
+ls
+cd math216-lab-2
+pwd
+git checkout master
+git pull 
+git add .
+git commit
+git commit
+git push
+git commit
+git add .
+git commit
+git push

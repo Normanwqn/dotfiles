@@ -1,0 +1,10 @@
+cd /Users/normanwqn/Courses/EECS280 
+git clone git@gitlab.eecs.umich.edu:normanqw/eecs280-lab-04.git
+cd eecs280-lab-04
+touch README.md
+git add README.md
+git commit -m "add README"
+git push -u origin master
+wget eecs280staff.github.io/lab/lab04/starter-files.tar.gz
+tar -xvzf starter-files.tar.gz
+ls

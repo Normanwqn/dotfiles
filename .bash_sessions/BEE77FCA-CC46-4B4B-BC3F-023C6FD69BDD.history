@@ -1,0 +1,501 @@
+touch test.txt
+emacs test.txt
+nano test.txt
+brew install emacs --with-cocoa
+brew cask install emacs
+man less
+cd /Users/normanwqn/Courses/EECS\ 280/lab-03 
+git clone git@gitlab.eecs.umich.edu:normanqw/eesc280-lab-03.git
+touch README.md
+git add README.md
+git init 
+git status
+git add .
+git commit -m "Initial Commit"
+git add .
+git init 
+git remote add origin git@gitlab.eecs.umich.edu:normanqw/eesc280-lab-03.git
+git add .
+cd /Users/normanwqn/Courses/EECS\ 280 
+git clone git@gitlab.eecs.umich.edu:normanqw/eesc280-lab-03.git
+cd eesc280-lab-03
+touch README.md
+git add README.md
+git commit -m "add README"
+git push -u origin master
+git status
+ls 
+wget eecs280staff.github.io/lab/lab03/starter-files.tar.gz
+tar -xvzf starter-files.tar.gz
+cd /Users/normanwqn/Courses/EECS\ 280/p2-cv 
+ls
+grep .gitignore
+greap .gitignore
+grep .gitignore
+git pull 
+git fetch
+git log
+ssh normanqw@login.engin.umich.edu
+xcode-select --install
+brew install --HEAD valgrind
+pwd
+cd /Users/normanwqn/Courses/EECS\ 280/p2-cv/Testing_PPM_IO 
+nano dog.ppm
+cd ..
+ls
+nano dog.ppm
+nano horses.ppm
+echo horses.ppm >> horse_original_correct.txt
+ls
+echo $horses.ppm
+echo $(horses.ppm)
+cat horses.ppm
+echo "$(cat horses.ppm)" > horses_org.txt
+echo "$(cat horses.ppm)" > ./Testing_PPM_IO/horses_org.txt
+echo "$(cat dog.ppm)" > ./Testing_PPM_IO/dog_org.txt
+echo "$(cat dog_4x5.correct.ppm)" > ./Testing_PPM_IO/dog_4x5.correct_org.p
+echo "$(cat dog_left.correct.ppm)" > ./Testing_PPM_IO/dog_left.correct_org.ppm
+echo "$(cat dog_4x5.correct.ppm)" > ./Testing_PPM_IO/dog_4x5.correct_org.txt
+echo "$(cat dog_left.correct.ppm)" > ./Testing_PPM_IO/dog_left.correct_org.txt
+echo "$(cat crabster_50x45.correct.ppm)" > ./Testing_PPM_IO/crabster_50x45.correct_org.txt
+echo "$(cat crabster_70x35.correct.ppm)" > ./Testing_PPM_IO/crabster_70x35.correct_org.txt
+echo "$(cat crabster_left.correct.ppm)" > ./Testing_PPM_IO/crabster_left.correct.txt
+echo "$(cat crabster_removed.correct.ppm)" > ./Testing_PPM_IO/crabster_removed.correct.txt
+echo "$(cat crabster_right.correct.ppm)" > ./Testing_PPM_IO/crabster_right.correct.txt
+echo "$(cat crabster.ppm)" > ./Testing_PPM_IO/crabster.txt
+echo "$(cat dog_left.correct.ppm)" > ./Testing_PPM_IO/dog_left.correct.txt
+echo "$(cat dog_removed.correct.ppm)" > ./Testing_PPM_IO/dog_removed.correct.txt
+echo "$(cat dog_right.correct.ppm)" > ./Testing_PPM_IO/dog_right.correct.txt
+echo "$(cat horses_300x382.correct.ppm)" > ./Testing_PPM_IO/horses_300x382.correct.txt
+echo "$(cat horses_400x250.correct.ppm)" > ./Testing_PPM_IO/horses_400x250.correct.txt
+echo "$(cat horses_left.correct.ppm)" > ./Testing_PPM_IO/horses_left.correct.txt
+echo "$(cat horses_removed.correct.ppm)" > ./Testing_PPM_IO/horses_removed.correct.txt
+echo "$(cat horses_right.correct.ppm)" > ./Testing_PPM_IO/horses_right.correct.txt
+cd /Volumes/GoogleDrive/My\ Drive/MATH\ 216/Labs/math216-lab1 
+git push
+git commit 
+git add .
+git commit
+git push
+cd /Volumes/GoogleDrive/My\ Drive/MATH\ 216/Labs/math216-lab-2 
+git add .
+git commit
+git commit -m "Q4 plotted"
+git push
+cd 
+cd /Users/normanwqn/Courses/EECS\ 280/p2-cv 
+nano
+mkdir .ctags
+cd $!
+pwd
+cd /Users/normanwqn/Courses/EECS\ 280/p2-cv 
+cd .ctags
+pwd
+nano
+cd ..
+rm .ctags
+rm -d .ctags
+ls
+nano
+ctags -R .
+vi
+cd /Users/normanwqn/Courses/EECS\ 280/p2-cv 
+ctags -R
+ctags -R .
+brew install ctags
+git status
+echo tags >> .git/info/exclude
+git status
+vim lib/rack/etag.rb
+cd /Users/normanwqn/Courses/EECS\ 280/p2-cv 
+touch .vimrc
+nano .vimrc
+nano .vimrc
+cd /Users/normanwqn/Courses/EECS\ 280/p2-cv 
+vi Matrix.cpp
+vi Matrix.cpp
+vi Matrix.cpp
+brew install ctags 
+cd ~
+grep .vimrc
+pwd
+:e $HOME/.vimrc
+HOME/.vimrc
+~/.vimrc
+touch .vimrc 
+vi .vimrc
+nano .vimrc
+source ~/.vimrc
+source ~/.vimrc
+ctags -R
+whereis cscope
+brew install cscope
+vim ~/.vimrc
+cd /Users/normanwqn/Courses/EECS280/p2-cv 
+vi Matrix.cpp
+pwd
+vi Matrix.cpp
+jupyter notebook
+chmod +x /usr/local/bin/gentags
+source ~/.vim/plugins/cscope_maps.vim
+cd ~/.vim/plugins
+ls
+nano cscope_maps.vim 
+cd /Users/normanwqn/Courses/EECS280/p2-cv 
+git status
+git add .
+git pull
+git merge
+git commit
+git merge
+git push
+git pull
+PATH=
+env -i ./printpath
+echo $PATH
+emptyexe
+dash
+env
+echo $PATH
+man env
+nano 
+cd /usr/bin
+nano
+echo $PATH
+whereis cd
+PATH=
+where is PATH
+whereis cd
+pwd
+man env
+whereis echo
+whereis PATH
+pwd
+ls
+ls
+cd Courses/
+cd EECS280
+cd p2-cv/
+ls
+echo ($cat dog.ppm) >> dog.txt
+echo $(cat dog.ppm) >> dog.txt
+cat dog.txt
+sh
+ls -al
+PATH=
+kill
+pwd
+cd /Users/normanwqn
+ls
+e
+whereis cd
+whereis kill
+ls /Users/normanwqn
+ls -al /User/normanwqn
+ls -al
+cd 
+pwd
+cd 
+pwd
+cd /usr/bin
+ls
+PATH=
+whereis cd
+echo $PATH
+whereis echo
+pwd
+zsh
+ls
+kill
+PATH=
+pwd
+mdkir
+ls
+ls -al
+chmod
+cat
+ed
+sh
+pwd
+rm
+rmdir
+echo $PATH
+cd /Users/normanwqn/Courses/EECS201/HW3 
+nano hello.sh
+bash hello
+bash hello.sh
+nano hello.sh
+nano hello.sh
+bash hello.sh
+nano hello.sh
+bash hello.sh
+nano hello.sh
+bash hello.sh
+nano hello.sh
+bash hello.sh
+nano hello.sh
+bash hello.sh
+nano hello.c
+bash hello.sh
+nano hello.c
+nano hello.sh
+nano hello.sh
+nano hello.sh
+bash hello.sh 
+nano hello.sh
+bash hello.sh 
+nano hello.sh
+bash hello.sh 
+bash hello.sh 
+nano hello.sh
+bash hello.sh 
+nano hello.sh
+bash hello.sh 
+nano hello.sh
+mv hello.sh build.sh
+ls
+cat build.sh
+cd /Users/normanwqn/Courses/EECS201/HW3 
+ls
+nano Hello.c
+ls
+ls
+nano build.sh 
+ssh oncampus-course.engin.umich.edu
+ssh oncampus-course.engin.umich.edu
+ssh normanqw@oncampus-course.engin.umich.edu
+ssh normanqw@oncampus-course.engin.umich.edu
+OCLINT_HOME=/path/to/oclint-release
+export PATH=$OCLINT_HOME/bin:$PATH
+brew tap oclint/formulae
+brew tap oclint/formulae
+oclint
+cp bin/oclint* /usr/local/bin/
+cmake -DCMAKE_EXPORT_COMPILE_COMMANDS=ON path/to/source-root
+cd /Users/normanwqn/Courses/EECS280/p2-cv 
+nano .gitignore
+git status
+git add .
+git commit 
+git push
+git pull 
+git push
+nano .gitignore
+git add .
+git commit
+git push
+vi Matrix.cpp
+nano .gitignore
+ssh normanqw@oncampus.oncampus-course.engin.umich.edu
+ssh normanqw@oncampus-course.engin.umich.edu
+man 
+more
+man more
+cd /Users/normanwqn/Courses/EECS280/p2-cv 
+find -name resize.cpp
+find . -name "*.c"
+find . -name "*.cpp"
+ssh caen 
+cd ~
+cd .ssh
+nano config
+ssh caen
+cd /Users/normanwqn/Courses/EECS280/p2-cv 
+git add .
+git commit -m "Makefile replaced"
+git push
+git pull
+git merge
+git status
+man cut
+cut
+cd /Users/normanwqn/Courses/EECS280/p2-cv 
+vi Matrix.cpp
+fcscope -d
+cscope -d
+cscope find s
+cscope find Matrix_at
+cscope find Matrix_at.cpp
+cscope find Matrix.cpp
+vi Matrix.cpp
+csope -d
+cscope -d
+nano test.cpp
+g++ test.cpp
+nano test.cpp
+g++ test.cpp
+g++ test.cpp -std=c+11
+g++ test.cpp -std=c++11
+cd /Volumes/GoogleDrive/My\ Drive/MATH\ 216/Labs/math216-lab-2 
+git status
+git pull 
+cd /Users/normanwqn/Courses/EECS201/HW4 
+wget http://web.mst.edu/~price/cs53/fs11/workDecider.cpp
+wget http://web.mst.edu/~price/cs53/KatsBadcode.cpp
+vi KatsBadcode.cpp 
+vi KatsBadcode.cpp 
+vi KatsBadcode.cpp 
+vi KatsBadcode.cpp 
+vim 
+vim 
+ls
+vim
+vim
+vim
+vim 
+vim
+vim KatsBadcode.cpp 
+ssh caen
+ssh caen -X
+ssh -X caen
+vim KatsBadcode.cpp
+vim test 
+vim test
+vim test
+vim test
+cd /Applications 
+ls
+ls -al
+cd Applications/wordMat2016
+/Applications/WordMat2016/UnInstallScript ; exit;
+man gittutorial
+cd /Users/normanwqn/Courses/EECS280 
+git clone git@gitlab.eecs.umich.edu:normanqw/p3-euchre.git
+cd p3-euchre/
+touch README.md
+wget https://eecs280staff.github.io/p3-euchre/starter-files.tar.gz
+mv Card.cpp.starter Card.cpp
+touch Pack.cpp
+touch Player.cpp
+touch euchre.cpp
+git status
+git add .
+git commit -m "Initial Commit"
+git push
+touch .gitignore
+nano .gitignore
+cd /Users/normanwqn/Courses/EECS280 
+git clone git@gitlab.eecs.umich.edu:normanqw/eecs280-lab-05.git
+cd eecs280-lab-05
+touch README.md
+wget eecs280staff.github.io/lab/lab05/starter-files.tar.gz
+tar -xvzf starter-files.tar.gz
+git status
+git status
+git push
+git add .
+git commit -m "Initial Commit"
+git pushj
+git push
+make
+ssh caen-off-campus
+git status
+make Card_public_test.exe
+nano .gitgignore
+git status
+nano .gitgignore
+git status
+rm .gitgignore 
+nano .gitignore
+git status
+nano .gitignore
+git status
+nano .gitignore
+git status
+git rm Makefile
+git status
+nano .gitignore
+mkdir Makefiles
+cd Makefiles/
+git reset Makefile
+git revert
+git log
+git reset  0c7ab50b
+nano .gitignore
+git status
+nano .gitignore
+git status
+git reset -- hard 0c7ab50
+git status
+git restore Makefile
+git reset --hard HEAD
+git status
+nano .gitignore
+git reset --hard 0c7ab50  && git clean -f
+make -f==given Card_public_test.exe
+make -f=given Card_public_test.exe
+make -f=m_given Card_public_test.exe
+make -f m_given Card_public_test.exe
+make '-f m_given' Card_public_test.exe
+pwd
+cd ..
+make -f m_given Card_tests.exe
+nano .gitignore 
+git status
+nano .gitignore
+git status
+nano .gitignore
+git status
+nano .gitignore
+git status
+git add .
+git commit
+make -f=m_default Card_tests
+finder .
+open
+open .
+make -f=m_given Card_tests.exe
+make -f m_given Card_tests.exe
+make -f m_given Card_tests.exe
+git status
+git add .
+git rm -r .DS_Store
+nano .gitignored
+git status
+git add git reset .DS_STORE
+git reset .DS_STORE
+git status
+git reset HEAD .DS_STORE
+git status
+nano .gitignore
+git rm .DS_STORE
+git rm .DS_Store
+git rm --cached .DS_Store
+git status
+git add .
+git status
+git rm -f .DS_Store
+git commit
+git push 
+git push
+git status
+git add .
+git commit
+git push
+pgrep
+pgrep -all
+ping google.com
+ping www.google.com
+brew tap oclint/formulae
+brew install oclint
+cp bin/oclint* /usr/local/bin/
+whereis oclint
+oclint
+oclint --version
+cp /usr/local/Cellar/oclint* /usr/local/bin
+cp /usr/local/Cellar/oclint/0.13 /usr/local/bin
+oclint
+whereis oclint
+which oclint
+/bin
+ls
+cd bin
+cd ./bin
+cd 
+which oclint
+/usr/um/
+cd /usr/um/
+cd /user
+cd /usr
+ls
+ssh caen-off-campus

@@ -1,0 +1,11 @@
+open .
+ls
+nano euchre_test50.in 
+vi Makefile_given
+make -f Makefile_given sync
+pwd
+ls
+rsync Makefile_gien
+rsync Makefile_given caen
+git pull
+git pull 

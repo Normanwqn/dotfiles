@@ -1,0 +1,22 @@
+ls
+nano Makefile_given 
+diff -y  euchre_test01.out euchre_test01.out.correct
+diff -y  euchre_test01.out euchre_test01.out.correct
+./euchre.exe pack.in shuffle 10 Edsger Simple Fran Simple Gabriel Simple Herb Simple > euchre_test01.out
+diff -y  euchre_test01.out euchre_test01.out.correct
+make euchre
+make euchre.exe
+diff -y  euchre_test01.out euchre_test01.out.correct
+diff -y  euchre_test01.out euchre_test01.out.correct
+make euchre.exe
+make euchre.exe
+./euchre.exe pack.in shuffle 10 Edsger Simple Fran Simple Gabriel Simple Herb Simple > euchre_test01.out
+diff -y  euchre_test01.out euchre_test01.out.correct
+make euchre.exe
+./euchre.exe pack.in shuffle 10 Edsger Simple Fran Simple Gabriel Simple Herb Simple > euchre_test01.out
+diff -y  euchre_test01.out euchre_test01.out.correct
+diff -y  euchre_test01.out euchre_test01.out.correct
+diff -y  euchre_test01.out euchre_test01.out.correct
+diff   euchre_test01.out euchre_test01.out.correct
+
+diff -y  euchre_test01.out euchre_test01.out.correct

@@ -1,0 +1,9 @@
+"*":
+  core:
+    telemetryConsent: "limited"
+  "dark-mode":
+    autoMode: false
+  "exception-reporting":
+    userId: "3d467cd0-4945-4f6c-bed3-fff88086af69"
+  welcome:
+    showOnStartup: false

@@ -1,0 +1,12 @@
+whereis echo
+cd /bin
+ls
+whereis pwd
+cd /Users/normanwqn
+ls
+whereis kill
+cd /bin
+pwd
+ls
+cd /usr/bin
+ls

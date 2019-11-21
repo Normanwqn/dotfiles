@@ -1,0 +1,17 @@
+pwd
+cd /Users/normanwqn/Courses/EECS\ 280/p2-cv 
+ls
+nano .vimrc
+vi --enable-cscope
+cscope --version
+find . -name "*.c" -o -name "*.cpp" -o -name "*.h" -o -name "*.hpp" > cscope.files
+gentags
+cscope -q -R -b -i cscope.files
+cscope -d
+find . -name "*.c" -o -name "*.cpp" -o -name "*.h" -o -name "*.hpp" > cscope.files
+cscope -q -R -b -i cscope.files
+cscope -d
+.vimrc
+nano .vimrc
+cscope -d
+ls -l | grep cscope

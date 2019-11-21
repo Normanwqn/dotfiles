@@ -1,0 +1,9 @@
+cd /Volumes/GoogleDrive/My\ Drive/MATH\ 216/Labs/math216-lab-3 
+git init 
+git add ,.
+git add .
+git commit -m "Initial Commit"
+git push
+git remote add origin git@gitlab.eecs.umich.edu:normanqw/math216-lab-3.git
+git push
+git push --set-upstream origin master

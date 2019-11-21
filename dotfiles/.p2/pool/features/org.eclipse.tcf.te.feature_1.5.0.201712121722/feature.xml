@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.tcf.te.feature"
+      label="%featureName"
+      version="1.5.0.201712121722"
+      provider-name="%providerName"
+      plugin="org.eclipse.tcf.te">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <url>
+      <update label="%updateSiteName" url="http://download.eclipse.org/releases/photon"/>
+   </url>
+
+   <requires>
+      <import plugin="org.eclipse.core.runtime" version="3.8.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.core.expressions" version="3.4.400" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.cdt.core" version="5.6.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.cdt.debug.core" version="7.4.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.debug.core" version="3.7.100" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.debug.ui" version="3.8.1" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.ui" version="3.8.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.ui.forms" version="3.5.200" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.ui.ide" version="3.8.1" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.ui.navigator" version="3.5.200" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.ui.views.properties.tabbed" version="3.5.300" match="greaterOrEqual"/>
+      <import plugin="com.google.gson" version="2.2.4" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.core.variables" version="3.2.600" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.help" version="3.6.0" match="greaterOrEqual"/>
+      <import feature="org.eclipse.cdt.platform" version="8.3.0" match="greaterOrEqual"/>
+      <import feature="org.eclipse.tm.terminal.feature" version="4.0.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.tcf.te.runtime" version="1.5.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.tcf.te.runtime.stepper" version="1.5.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.tcf.te.runtime.services" version="1.5.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.tcf.te.runtime.persistence" version="1.5.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.tcf.te.runtime.model" version="1.5.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.tcf.te.core.cdt" version="1.5.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.tcf.te.runtime.concurrent" version="1.5.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.tcf.te.runtime.statushandler" version="1.5.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.tcf.te.launch.core" version="1.5.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.tcf.te.ui.controls" version="1.5.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.tcf.te.ui.forms" version="1.5.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.tcf.te.ui.swt" version="1.5.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.tcf.te.ui.views" version="1.5.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.tcf.te.ui" version="1.5.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.tcf.te.core" version="1.5.0" match="greaterOrEqual"/>
+   </requires>
+
+   <plugin
+         id="org.eclipse.tcf.te"
+         download-size="14"
+         install-size="18"
+         version="1.5.0.201609112106"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.tcf.te.core"
+         download-size="32"
+         install-size="51"
+         version="1.5.0.201609112106"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.tcf.te.core.cdt"
+         download-size="14"
+         install-size="20"
+         version="1.5.0.201609112106"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.tcf.te.launch.core"
+         download-size="117"
+         install-size="241"
+         version="1.5.0.201609112106"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.tcf.te.launch.ui"
+         download-size="175"
+         install-size="373"
+         version="1.5.0.201704222134"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.tcf.te.runtime"
+         download-size="97"
+         install-size="179"
+         version="1.5.0.201609112106"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.tcf.te.runtime.concurrent"
+         download-size="32"
+         install-size="54"
+         version="1.5.0.201609112106"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.tcf.te.runtime.model"
+         download-size="37"
+         install-size="61"
+         version="1.5.0.201609112106"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.tcf.te.runtime.persistence"
+         download-size="49"
+         install-size="94"
+         version="1.5.0.201609112106"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.tcf.te.runtime.services"
+         download-size="38"
+         install-size="65"
+         version="1.5.0.201609112106"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.tcf.te.runtime.statushandler"
+         download-size="28"
+         install-size="48"
+         version="1.5.0.201609112106"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.tcf.te.runtime.stepper"
+         download-size="85"
+         install-size="182"
+         version="1.5.0.201609112106"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.tcf.te.ui"
+         download-size="281"
+         install-size="552"
+         version="1.5.0.201609112106"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.tcf.te.ui.controls"
+         download-size="99"
+         install-size="192"
+         version="1.5.0.201609112106"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.tcf.te.ui.forms"
+         download-size="51"
+         install-size="100"
+         version="1.5.0.201609112106"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.tcf.te.ui.notifications"
+         download-size="58"
+         install-size="104"
+         version="1.5.0.201609112106"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.tcf.te.ui.swt"
+         download-size="69"
+         install-size="130"
+         version="1.5.0.201609112106"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.tcf.te.ui.views"
+         download-size="244"
+         install-size="512"
+         version="1.5.0.201609112106"
+         unpack="false"/>
+
+</feature>

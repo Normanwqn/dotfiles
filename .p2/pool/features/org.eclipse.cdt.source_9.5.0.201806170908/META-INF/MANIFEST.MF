@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Built-By: genie.cdt
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_162
+
+Name: epl-2.0.html
+SHA-256-Digest: koxKavfpz4JYnlYPmP+7at5zhbWf7Iy07zamu5HPcBg=
+
+Name: META-INF/maven/org.eclipse.cdt.features/org.eclipse.cdt/pom.xml
+SHA-256-Digest: 45UaMHUWrkjuJb6wWJi5ZbBHkCWzn00SAhna2H9xOP0=
+
+Name: feature.xml
+SHA-256-Digest: g1XBdCs3PseP6/z787QXVBBzC6QJJuC2flbNAaRFwTU=
+
+Name: feature.properties
+SHA-256-Digest: tSXT08v9bCjJmMlebKmzeh9rMQrTFHwmJ48UpxkSZuc=
+
+Name: license.html
+SHA-256-Digest: Dv5NbrV590iFepPFp4HDAA9w8zkHSynRW5FCE+FLHVM=
+
+Name: META-INF/maven/org.eclipse.cdt.features/org.eclipse.cdt/pom.prop
+ erties
+SHA-256-Digest: m/g9OXJRc9svqHpZQ9sO5US4zrETX1HvyJg0CHkwjF4=
+

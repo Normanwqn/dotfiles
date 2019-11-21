@@ -1,0 +1,524 @@
+git check HEAD
+git checkout HEAD
+git log
+git push origin master
+git log
+git status
+git log
+git log | less
+git remote -v
+git pull
+git pull origin master
+git push
+gir branch
+git branch
+gco master
+git checkout master
+git log
+git branch
+git log
+git status
+git checkout -b new_branch
+git branch
+git checkout master
+git merge new_branch 
+git checkout 
+git status
+git log
+git add .
+git commit
+git log
+git branch
+git merge new_branch
+git branch
+git pull new_branch
+git push origin master
+git status
+git branch
+git branch -d new_branch
+git branch 
+git status
+git add .
+git commit
+git push
+git commit
+git push
+git checkout ca71007
+git swtich ca71007
+git switch ca71007
+git branch -b new_branch 
+git branch -b new
+git checkout ca71007
+git branch
+git merge master
+git status
+git mergetool
+git merge master
+git commit 
+git merge master
+git branch
+git branch
+git checkout master
+git log
+git push
+git merge ca71007
+git config merge.conflictstyle diff3
+git merge ca71007
+git rm .idea/workspace.xml
+git merge ca71007
+git commit
+git merge ca71007
+git push
+git branch
+ls
+brew install --HEAD valgrind
+brew install --HEAD valgrind
+brew install --HEAD valgrind
+brew install --HEAD valgrind
+brew install --HEAD valgrind
+valgrind 
+valgrind
+cd /Volumes/GoogleDrive/My\ Drive/MATH\ 216/Labs/math216-lab1 
+git statsu
+git status
+git add .
+git commit
+git push
+pwd
+cd /Volumes/GoogleDrive/My\ Drive/MATH\ 216/Labs/math216-lab1 
+git status
+git add .
+git commit
+git push
+git commit
+git commit -m "Fixing Exercise 3. Current version would produce diverging equations"
+git push
+git status
+add .
+git add .
+git commit -m "Now you can approximateusing any y_0"
+git push
+git status
+cd /Volumes/GoogleDrive/My\ Drive/MATH\ 216/Labs/math216-lab1 
+git status
+git add .
+rm -f .git/index.lock
+git add .
+git commit 
+git push 
+ls
+git status
+ls
+git status
+git add .
+git status
+git push
+git commit
+git add --all
+git commit
+.gitignore
+ls
+ls -l
+ls -al
+cd .git
+ls
+ls index
+cd inde
+cd index
+pwd
+file index
+ls -al
+cat .gitignore
+cd
+pwd
+cd /Volumes/GoogleDrive/My Drive/MATH 216/Labs/math216-lab1
+cd '/Volumes/GoogleDrive/My Drive/MATH 216/Labs/math216-lab1'
+cat 
+cat .gitignore
+git check-ignore -v debug.log
+cat .gitignore
+git add *
+git status
+git commit
+git rm -r --cached .
+git add -A
+git commit -am 'fix'
+git push
+git status
+git commit
+git commit -a
+cat .gitignore
+git add A_Exercise_a.m
+git commit
+git update-index --no-assume-unchanged <path_to_file>
+git update-index --no-assume-unchange
+git commit
+git add -A .
+git commit
+git add -u
+git commit
+git status -s|awk '{ print $2 }'|xargs git add
+git commit
+git add .
+git add --all :/
+git commit
+git init
+git add .
+git status
+git commit
+git reset --hard master
+git status
+git add .
+git commit
+git ls
+git init 
+git add .
+git commit
+touch .git/index.lock
+git add .
+git add .
+git init 
+git status
+git add -A
+cd .git
+touch index.lock
+rm -f ./.git/index.lock
+git gc
+git add .
+..
+cd ..
+pwd
+git init 
+git status
+git init 
+git status
+git fetch
+git pull 
+git status
+ls
+it diff HEAD FETCH_HEAD
+git diff HEAD FETCH_HEAD
+git status
+cd 
+cd /Volumes/GoogleDrive/My\ Drive/MATH\ 216/Labs/math216-lab1 
+git status
+git init 
+git status
+git fetch 
+git merge
+git status
+git add -A 
+cd /Users/normanwqn/Courses/EECS\ 201/HW2/golf/Hooks 
+ls
+git init 
+ls -al
+pwd
+ls -a
+cd .git/hooks
+ls -a
+mv commit-msg.sample commit-msg
+nano helloworld.txt
+git add .
+pwd
+ls
+cd ..
+pwd
+cd ..
+pwd
+nano HelloWorld.txt
+git add .
+git commit 
+git commit
+git commit --no-verify
+nano HelloWorld.txt
+git commit --no-verify 
+git add .
+git commit --no-verify
+cd .git
+ls
+cd hooks
+ls
+nano commit-msg
+cd ..
+pwd
+cd ..
+pwd
+cd ..
+cd Hooks
+nano HelloWorld.txt
+git commit --no-verify 
+git add .
+git commit --no-verify 
+echo $1
+echo $(file $1)
+cd /Users/normanwqn/Courses/EECS\ 201/HW2/golf/Hello 
+nano HelloWorld.txt
+git init 
+cd .git/hooks
+ls
+mv commit-msg.sample commit-msg
+ls
+cd ..
+pwd
+cd ..
+pwd
+nano HelloWorld.txt 
+git commit -m "Test 1"
+git add .
+git commit -m "Test 1"
+nano HelloWorld.txt 
+git status
+git add .
+/Users/normanwqn/Courses/EECS\ 201/HW2/golf/Hello/.git/hooks/commit-msg ; exit;
+cd /Users/normanwqn/Courses/EECS\ 201/HW2/golf/Hello 
+git init 
+nano HW.txt
+git add .
+git commit 
+cd .git/hooks 
+ls
+mv commit-msg.sample commit-msg
+cd ..
+cd ..
+pwd
+nano HW.txt 
+git add .
+git commit
+nano HW.txt 
+git commit --no-verify
+git add .
+git commit --no-verify
+git status
+cd .git/hooks
+nano commit-msg 
+cd ..
+cd ..
+pwd
+nano HW.txt 
+git commit --no-verify 
+git add .
+git commit --no-verify 
+git status
+cd .git/hooks
+nano commit-msg 
+cd ..
+cd ..
+nano HW.txt 
+git add .
+git commit HW.txt
+git status
+nano HW.txt 
+git add .
+git commit HW.txt
+brew install aspell
+git commit HW.txt
+nano HW.txt 
+git commit HW.txt 
+git status 
+git commit 
+git commit 
+nano HW.txt 
+git commit HW.txt
+nano HW.txt 
+git commit HW.txt
+nano HW.txt 
+git commit HW.txt
+nano HW.txt 
+git commit 
+git add .
+git commit HW.txt
+cd /Users/normanwqn/Courses/EECS\ 201/HW2/Advanced 
+wget http://csprag.github.io/static/docs/golf.tar.gz
+ls
+cd ..
+ls
+cd golf/
+ls
+nano README
+cd 1
+ls
+git ls-files --deleted
+git log
+git checkout <e62cb77564b03e47500e7d60d2023f2df9b06490>~1 
+git checkout <e62cb77> -- error.html
+ls
+nano index.html
+git checkout <e62b77> --block-m.png
+git checkout e62cb77 -- error.html
+git checkout e62cb77 -- block-m.png
+ls
+echo "Credit: https://www.quora.com/How-can-I-recover-a-file-I-deleted-in-my-local-repo-from-the-remote-repo-in-Git"
+cd /Users/normanwqn/Courses/EECS\ 201/HW2/golf/Hello/.git/hooks 
+nano commit-msg 
+pwd
+nano commit-msg 
+nano commit-msg 
+nano commit-msg 
+nano commit-msg 
+cd /Users/normanwqn/Courses/EECS\ 201/HW2/golf/2 
+ls
+nano README
+git log
+git reflog
+nano README
+nano README
+git checkout 53a98e0
+ls
+nano MESSAGE
+echo "Credit: https://www.quora.com/How-can-I-recover-a-file-I-deleted-in-my-local-repo-from-the-remote-repo-in-Git"
+cd /Users/normanwqn/Courses/EECS\ 201/HW2/golf/3 
+ls
+git fsck --lost-found
+git show 245c2fb1070a22c01960cdd4d576cd472f25b779
+git reflog
+git ls-files --stage
+ls
+git recover -i
+nano main
+nano main,c
+nano main.c
+echo "Credit: https://www.quora.com/How-can-I-recover-a-file-I-deleted-in-my-local-repo-from-the-remote-repo-in-Git"
+cd /Volumes/GoogleDrive/My\ Drive/EECS\ 201/HW\ 2/Git\ Practice/eecs280-w15/project2 
+ls
+ls -al
+cd .git
+pwd
+ls
+cd .gitignore 
+nano .gitignore 
+cd /Users/normanwqn/Courses/EECS\ 280/p2-cv 
+git merge
+git log
+git branch
+git branch -r
+git merge 
+git status
+git log
+/Users/normanwqn/Courses/EECS\ 280/p2-cv 
+cd /Users/normanwqn/Courses/EECS\ 280/p2-cv 
+git status
+git fetch
+git merge 
+git pull
+pwd
+
+nano .gitignore 
+cd /Volumes/GoogleDrive/My\ Drive/EECS\ 201/HW\ 2/Git2 
+mkdir -p eecs280-w15/project2
+cd eecs280-w15/project2
+git init 
+wget 'https://drive.google.com/uc?export=download&id=1gvdlk-fgfiLd0dsqzFNIcrsJ1UcQgML0' -O eecs280-w15-p2.tgz
+tar -xf eecs280-w15-p2.tgz
+rm eecs280-w15-p2.tgz
+touch p2.cpp
+git add *
+git status
+git commit
+git status
+wget 'https://drive.google.com/uc?export=download&id=1hapy9bkyUqBERdWo8U6QCt5YfwSgRNld' -O p2.cpp
+git diff 
+git diff HEAD
+make
+git ls-tree -r master --name-only
+ls
+git ls-tree --full-tree --name-only -r HEAD
+git status
+cd .git
+touch .gitignore
+nano .gitignore 
+git status
+cd ..
+git status
+cd ..
+pwd
+git status
+ls
+cd project2/
+pwd
+touch .gitignore
+nano .gitignore
+git status
+git commit .
+git status
+git add .
+git commit
+git status
+git log -n2 -p | head -n 40
+git commit 
+pwd
+emacs
+cd /Volumes/GoogleDrive/My\ Drive/EECS\ 201/HW\ 2 
+mkdir /tmp/throwaway
+pwd
+cd /tmp/throwaway
+pwd
+ls
+pwd
+cd ..
+pwd
+cd ..
+pwd
+ls
+rm -d /tmp
+cd /tmp
+ls -a
+ls -al
+mkdir /tmp/throwaway
+cd /tmp/throwaway
+pwd
+git init 
+echo hello > world
+git add world
+git commit
+echo "it's a small" > world
+git add world 
+export EDITOR = "emacs -nw"
+export EDITOR="emacs -nw"
+git commit 
+export EDITOR="emacs -nw"
+git commit
+git commit
+export EDITOR="emacs"
+nano world 
+git add .
+git commit 
+emacs -help
+echo "on top of the" > world 
+GIT_EDITOR = get git commit world 
+GIT_EDITOR = gedit git commit world
+GIT_EDITOR=gedit git commit world
+gedit
+brew install emacs
+emacs --help
+emacs
+pwd
+cd /Users/normanwqn/Desktop/
+touch test.txt
+emacs test.txt
+nano test.txt
+brew install emacs --with-cocoa
+brew cask install emacs
+man less
+cd /Users/normanwqn/Courses/EECS\ 280/lab-03 
+git clone git@gitlab.eecs.umich.edu:normanqw/eesc280-lab-03.git
+touch README.md
+git add README.md
+git init 
+git status
+git add .
+git commit -m "Initial Commit"
+git add .
+git init 
+git remote add origin git@gitlab.eecs.umich.edu:normanqw/eesc280-lab-03.git
+git add .
+cd /Users/normanwqn/Courses/EECS\ 280 
+git clone git@gitlab.eecs.umich.edu:normanqw/eesc280-lab-03.git
+cd eesc280-lab-03
+touch README.md
+git add README.md
+git commit -m "add README"
+git push -u origin master
+git status
+ls 
+wget eecs280staff.github.io/lab/lab03/starter-files.tar.gz
+tar -xvzf starter-files.tar.gz

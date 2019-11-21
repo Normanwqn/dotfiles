@@ -1,0 +1,8 @@
+cd /Volumes/GoogleDrive/My\ Drive/MATH\ 216/Labs/math216-lab-3 
+git status
+git pull
+git status
+got add .
+git add .
+git commit
+git push
